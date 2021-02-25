@@ -5,7 +5,7 @@
 * 🤔  Focusing on C&C++
 * ⚡  VIM lover
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KianKw&hide=csharp,ShaderLab&layout=compact&count_private=false)](https://github.com/KianKw)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KianKw&hide=csharp,ShaderLab&layout=compact&count_private=true)](https://github.com/KianKw)
 [![Kian's github stats](https://github-readme-stats.vercel.app/api?username=KianKw&hide=issues&show_icons=true&text_color=718096&bg_color=ffffff&count_private=true&line_height=33)](https://github.com/KianKw)
 
 <!--
